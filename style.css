@@ -39,3 +39,11 @@ body {
 .meaning-container {
     display: none;
 }
+
+.word-title, .word-meaning {
+    font-weight: bold;
+}
+
+span {
+    font-weight: normal;
+}
